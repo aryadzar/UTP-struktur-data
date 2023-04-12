@@ -1,0 +1,58 @@
+[
+  {
+    "kunci": "Hello Kitty",
+    "kode_kunci": "HK1022",
+    "harga_beli": 10000,
+    "harga_jual": 13000,
+    "stok": 10
+  },
+  {
+    "kunci": "Anime",
+    "kode_kunci": "WI1130",
+    "harga_beli": 2000,
+    "harga_jual": 7000,
+    "stok": 10
+  },
+  {
+    "kunci": "Makima",
+    "kode_kunci": "ST6666",
+    "harga_beli": 5000,
+    "harga_jual": 9000,
+    "stok": 10
+  },
+  {
+    "kunci": "Bocchi",
+    "kode_kunci": "CH1101",
+    "harga_beli": 10000,
+    "harga_jual": 13000,
+    "stok": 10
+  },
+  {
+    "kunci": "DORAEMON",
+    "kode_kunci": "DR1201",
+    "harga_beli": 5000,
+    "harga_jual": 10000,
+    "stok": 10
+  },
+  {
+    "kunci": "Custom",
+    "kode_kunci": "CST001",
+    "harga_beli": null,
+    "harga_jual": 15000,
+    "stok": 2
+  },
+  {
+    "kunci": "KEY",
+    "kode_kunci": "KY1001",
+    "harga_beli": 13000,
+    "harga_jual": 15000,
+    "stok": 10
+  },
+  {
+    "kunci": "UPIN",
+    "kode_kunci": "UP1212",
+    "harga_beli": 10000,
+    "harga_jual": 12000,
+    "stok": 10
+  }
+]
